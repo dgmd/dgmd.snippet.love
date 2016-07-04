@@ -1,6 +1,1 @@
-.ruby-version
-.ruby-gemset
-Gemfile.lock
-.sass-cache
-_site
-node_modules
+.DS_Store
